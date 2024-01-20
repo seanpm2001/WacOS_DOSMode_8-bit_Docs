@@ -1,0 +1,1 @@
+🍏️💾️8️⃣️[💽️🇴.🇸]📖️ The official documentation source repository for the 8-bit variant of the DOS Mode subsystem of WacOS, an open-source alternative to Apple DOS. Part of the WacOS operating system project
